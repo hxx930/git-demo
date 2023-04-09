@@ -1,4 +1,4 @@
-hello git hello hxx
+hello git
 hello git hello hxx
 hello git hello hxx
 hello git hello hxx
